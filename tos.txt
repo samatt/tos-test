@@ -1,7 +1,7 @@
 
 Terms of Use
 
-Date of Last Revision: November 15, 2007.
+Date of Last Revision: June 7, 2008.
 
 Welcome to Facebook, a social utility that connects you with the people around you. The Facebook service and network (collectively, "Facebook" or "the Service") are operated by Facebook, Inc. and its corporate affiliates (collectively, "us", "we" or "the Company"). By accessing or using our web site at www.facebook.com or the mobile version thereof (together the "Site") or by posting a Share Button on your site, you (the "User") signify that you have read, understand and agree to be bound by these Terms of Use ("Terms of Use" or "Agreement"), whether or not you are a registered member of Facebook.  We reserve the right, at our sole discretion, to change, modify, add, or delete portions of these Terms of Use at any time without further notice. If we do this, we will post the changes to these Terms of Use on this page and will indicate at the top of this page the date these terms were last revised. Your continued use of the Service or the Site after any such changes constitutes your acceptance of the new Terms of Use. If you do not agree to abide by these or any future Terms of Use, do not use or access (or continue to use or access) the Service or the Site. It is your responsibility to regularly check the Site to determine if there have been changes to these Terms of Use and to review such changes.
 
@@ -17,7 +17,7 @@ In consideration of your use of the Site, you agree to (a) provide accurate, cur
 
 Proprietary Rights in Site Content; Limited License
 
-All content on the Site and available through the Service, including designs, text, graphics, pictures, video,  information, applications, software, music, sound and other files, and their selection and arrangement (the "Site Content"), are the proprietary property of the Company, its users or its licensors with all rights reserved. No Site Content may be modified, copied, distributed, framed, reproduced, republished, downloaded, displayed, posted, transmitted, or sold in any form or by any means, in whole or in part, without the Company's prior written permission, except that the foregoing does not apply to your own User Content (as defined below) that you legally post on the Site.  Provided that you are eligible for use of the Site, you are granted a limited license to access and use the Site and the Site Content and to download or print a copy of any portion of the Site Content to which you have properly gained access solely for your personal, non-commercial use, provided that you keep all copyright or other proprietary notices intact. Except for your own User Content, you may not upload or republish Site Content on any Internet, Intranet or Extranet site or incorporate the information in any other database or compilation, and any other use of the Site Content is strictly prohibited.  Such license is subject to these Terms of Use and does not include use of any data mining, robots or similar data gathering or extraction methods.  Any use of the Site or the Site Content other than as specifically authorized herein, without the prior written permission of Company, is strictly prohibited and will terminate the license granted herein.  Such unauthorized use may also violate applicable laws including copyright and trademark laws and applicable communications regulations and statutes.  Unless explicitly stated herein, nothing in these Terms of Use shall be construed as conferring any license to intellectual property rights, whether by estoppel, implication or otherwise.  This license is revocable at any time without notice and with or without cause.
+All content on the Site and available through the Service, including designs, text, graphics, pictures, video,  information, applications, software, music, sound and other files, and their selection and arrangement (the "Site Content"), are the proprietary property of the Company, its users or its licensors with all rights reserved. No Site Content may be modified, copied, distributed, framed, reproduced, republished, downloaded, scraped, displayed, posted, transmitted, or sold in any form or by any means, in whole or in part, without the Company's prior written permission, except that the foregoing does not apply to your own User Content (as defined below) that you legally post on the Site.  Provided that you are eligible for use of the Site, you are granted a limited license to access and use the Site and the Site Content and to download or print a copy of any portion of the Site Content to which you have properly gained access solely for your personal, non-commercial use, provided that you keep all copyright or other proprietary notices intact. Except for your own User Content, you may not upload or republish Site Content on any Internet, Intranet or Extranet site or incorporate the information in any other database or compilation, and any other use of the Site Content is strictly prohibited.  Such license is subject to these Terms of Use and does not permit use of any data mining, robots, scraping or similar data gathering or extraction methods.  Any use of the Site or the Site Content other than as specifically authorized herein, without the prior written permission of Company, is strictly prohibited and will terminate the license granted herein.  Such unauthorized use may also violate applicable laws including copyright and trademark laws and applicable communications regulations and statutes.  Unless explicitly stated herein, nothing in these Terms of Use shall be construed as conferring any license to intellectual property rights, whether by estoppel, implication or otherwise.  This license is revocable at any time without notice and with or without cause.
 
 Trademarks
 
@@ -26,7 +26,6 @@ Trademarks
 User Conduct
 
 You understand that except for advertising programs offered by us on the Site (e.g., Facebook Flyers, Facebook Marketplace), the Service and the Site are available for your personal, non-commercial use only. You represent, warrant and agree that no materials of any kind submitted through your account or otherwise posted, transmitted,  or shared by you on or through the Service will violate or infringe upon the rights of any third party, including copyright, trademark, privacy, publicity or other personal or proprietary rights; or contain libelous, defamatory or otherwise unlawful material.
-
 
 In addition, you agree not to use the Service or the Site to: 
 
@@ -79,7 +78,7 @@ When you post User Content to the Site, you authorize and direct us to make such
 
 Facebook Mobile Services
 
-The Service includes certain services that are available via your mobile phone, including (i) the ability to upload content to Facebook via your mobile phone (Mobile Uploads), (ii) the ability to receive and reply to Facebook messages, to poke and receive pokes and to write wall posts using text messaging (Mobile Texts), (iii) the ability to browse Facebook from your mobile phone (Mobile Web), and (iv) the ability to access certain Facebook features through a mobile application you have downloaded and installed on your mobile phone (Mobile Client)  (collectively the "Mobile Services").   We do not charge for these Mobile Services.  However, your carrier's normal messaging, data and other rates and fees will still apply.  You should check with your carrier to find out what plans are available and how much they cost. In addition, downloading, installing, or using certain Mobile Services may be prohibited or restricted by your carrier, and not all Mobile Services may work with all carriers or devices. Therefore, you should check with your carrier to find out if the Mobile Services are available for your mobile devices, and what restrictions, if any, may be applicable to your use of such Mobile Services. By using the Mobile Services, you agree that we may communicate with you regarding Facebook and other entities by SMS, MMS, text message or other electronic means to your mobile device and that certain information about your usage of the Mobile Services may be communicated to us. 
+The Service includes certain services that are available via your mobile phone, including (i) the ability to upload content to Facebook via your mobile phone (Mobile Uploads), (ii) the ability to receive and reply to Facebook messages, to poke and receive pokes and to write wall posts using text messaging (Mobile Texts), (iii) the ability to browse Facebook from your mobile phone (Mobile Web), and (iv) the ability to access certain Facebook features through a mobile application you have downloaded and installed on your mobile phone (Mobile Client)  (collectively the "Mobile Services").   We do not charge for these Mobile Services.  However, your carrier's normal messaging, data and other rates and fees will still apply.  You should check with your carrier to find out what plans are available and how much they cost. In addition, downloading, installing, or using certain Mobile Services may be prohibited or restricted by your carrier, and not all Mobile Services may work with all carriers or devices. Therefore, you should check with your carrier to find out if the Mobile Services are available for your mobile devices, and what restrictions, if any, may be applicable to your use of such Mobile Services. By using the Mobile Services, you agree that we may communicate with you regarding Facebook and other entities by SMS, MMS, text message or other electronic means to your mobile device and that certain information about your usage of the Mobile Services may be communicated to us.  In the event you change or deactivate your mobile telephone number, you agree to promptly update your Facebook account information to ensure that your messages are not sent to the person that acquires your old number.
 
 Copyright Complaints
 
@@ -220,6 +219,9 @@ Limitation on Liability
 
 IN NO EVENT WILL COMPANY OR ITS DIRECTORS, EMPLOYEES OR AGENTS BE LIABLE TO YOU OR ANY THIRD PERSON FOR ANY INDIRECT, CONSEQUENTIAL, EXEMPLARY, INCIDENTAL, SPECIAL OR PUNITIVE DAMAGES, INCLUDING FOR ANY LOST PROFITS OR LOST DATA ARISING FROM YOUR USE OF THE  SITE OR THE SERVICE, ANY PLATFORM APPLICATIONS OR ANY OF THE SITE CONTENT OR OTHER MATERIALS ON, ACCESSED THROUGH OR DOWNLOADED FROM THE SITE, EVEN IF THE COMPANY IS AWARE OR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. NOTWITHSTANDING ANYTHING TO THE CONTRARY CONTAINED HEREIN, THE COMPANY'S LIABILITY TO YOU FOR ANY CAUSE WHATSOEVER, AND REGARDLESS OF THE FORM OF THE ACTION, WILL AT ALL TIMES BE LIMITED TO THE AMOUNT PAID, IF ANY, BY YOU TO COMPANY FOR THE SERVICE DURING THE TERM OF MEMBERSHIP, BUT IN NO CASE WILL THE COMPANY'S LIABILITY TO YOU EXCEED $1000.  YOU ACKNOWLEDGE THAT IF NO FEES ARE PAID TO COMPANY  FOR THE SERVICE, YOU SHALL BE LIMITED TO INJUNCTIVE RELIEF ONLY, UNLESS OTHERWISE PERMITTED BY LAW, AND SHALL NOT BE ENTITLED TO DAMAGES OF ANY KIND FROM COMPANY, REGARDLESS OF THE CAUSE OF ACTION.
 
+
+CERTAIN STATE LAWS DO NOT ALLOW LIMITATIONS ON IMPLIED WARRANTIES OR THE EXCLUSION OR LIMITATION OF CERTAIN DAMAGES. IF THESE LAWS APPLY TO YOU, SOME OR ALL OF THE ABOVE DISCLAIMERS, EXCLUSIONS OR LIMITATIONS MAY NOT APPLY TO YOU, AND YOU MAY HAVE ADDITIONAL RIGHTS.
+
 Termination
 
 The Company may terminate your membership, delete your profile and any content or information that you have posted on the Site or through any Platform Application and/or prohibit you from using or accessing the Service or the Site or any Platform Application (or any portion, aspect or feature of the Service or the Site or any Platform Application) for any reason, or no reason, at any time in its sole discretion, with or without notice, including if it believes that you are under 13, or under 18 and not in high school or college.  When we are notified that a user has died, we will generally, but are not obligated to, keep the user's account active under a special memorialized status for a period of time determined by us to allow other users to post and view comments.
@@ -260,4 +262,16 @@ Please visit our
 
 Help
 
- page for more information.
+ page or these links for more information.
+
+Facebook Copyright Policy
+
+Facebook Terms of Sale
+
+Facebook Marketplace Guidelines
+
+Facebook Platform Application Guidelines
+
+Platform Application Terms of Use
+
+Facebook Developer Terms of Service
