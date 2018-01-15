@@ -1,7 +1,7 @@
 
 Terms of Use
 
-Date of Last Revision: June 7, 2008.
+Date of Last Revision: September 23, 2008
 
 Welcome to Facebook, a social utility that connects you with the people around you. The Facebook service and network (collectively, "Facebook" or "the Service") are operated by Facebook, Inc. and its corporate affiliates (collectively, "us", "we" or "the Company"). By accessing or using our web site at www.facebook.com or the mobile version thereof (together the "Site") or by posting a Share Button on your site, you (the "User") signify that you have read, understand and agree to be bound by these Terms of Use ("Terms of Use" or "Agreement"), whether or not you are a registered member of Facebook.  We reserve the right, at our sole discretion, to change, modify, add, or delete portions of these Terms of Use at any time without further notice. If we do this, we will post the changes to these Terms of Use on this page and will indicate at the top of this page the date these terms were last revised. Your continued use of the Service or the Site after any such changes constitutes your acceptance of the new Terms of Use. If you do not agree to abide by these or any future Terms of Use, do not use or access (or continue to use or access) the Service or the Site. It is your responsibility to regularly check the Site to determine if there have been changes to these Terms of Use and to review such changes.
 
@@ -166,6 +166,32 @@ here
 
 .
 
+Facebook Connect
+
+Facebook Connect ("Connect") enables participating third party websites to work just like Facebook Platform applications.  Once you allow a third party website to connect with Facebook, you will be able to use your Facebook login information to log into that website.  The third party website will be able to: generate and publish news feed and other stories about actions you take on their website; access Facebook information related to you (including your profile information, friends, and privacy settings) so you can use your Facebook information on the third party site; and allow you to interact with your friends on the website.   In order to make Connect possible, you agree to allow Facebook to check your Facebook cookies when you are visiting participating third party websites, and allow Facebook to receive information concerning the actions you take on those third party websites.  In addition, once you allow a participating third party website to connect with Facebook, you agree to allow Facebook and such third party website to generate and publish news feed and other stories about actions you take on the website without any additional permission.  In the event you no longer want the third party website to publish stories about you, you can always disable this feature by changing your 
+
+application settings
+
+.
+
+When your friends connect their Facebook account with a participating third party website, Facebook Connect will enable them to find Facebook friends that may also be users of that third party website, and invite them to use Connect as well.  If you do not want your friends to be able to invite you, you may change your 
+
+privacy settings
+
+ to disable this feature.
+
+Connect also gives you the ability to permit Facebook and participating third party websites to generate and publish news feed and other stories about actions you have taken on such websites, even if you have not gone through the Connect process.  In such cases, you will be asked whether you want to publish the story on Facebook, and will be given the opportunity to save your answer for future stories.  In the event you want to change your settings for that website, visit your 
+
+application settings
+
+.
+
+Like Platform Applications, third party websites that participate in Connect are required, among other things, to protect your privacy consistent with your Facebook privacy settings and Facebook's 
+
+privacy policy
+
+.
+
 Facebook Pages
 
 Facebook Pages are special profiles used solely for commercial, political, or charitable purposes. You may not set up a Facebook Page on behalf of another individual or entity unless you are authorized to do so.  This includes fan Facebook Pages, as well as Facebook Pages to support or criticize another individual or entity.
@@ -205,6 +231,7 @@ here
 Disclaimers
 
 The Company is not responsible or liable in any manner for any User Content or Third Party Applications, Software or Content posted on the Site or in connection with the Service, whether posted or caused by users of the Site, by Facebook, by third parties  or by any of the equipment or programming associated with or utilized in the Site or the Service.  Although we provide rules for user conduct and postings, we do not control and are not responsible for what users post, transmit or share on the Site and are not responsible for any offensive, inappropriate, obscene, unlawful or otherwise objectionable content you may encounter on the Site or in connection with any User Content or Third Party Applications, Software or Content. The Company is not responsible for the conduct, whether online or offline, of any user of the Site or Service.
+
 
 
 The Site and the Service may be temporarily unavailable from time to time for maintenance or other reasons. Company assumes no responsibility for any error, omission, interruption, deletion, defect, delay in operation or transmission, communications line failure, theft or destruction or unauthorized access to, or alteration of, User communications. The Company is not responsible for any technical malfunction or other problems of any telephone network or service, computer systems, servers or providers, computer or mobile phone equipment, software, failure of email or players on account of technical problems or traffic congestion on the Internet or at any Site or combination thereof, including injury or damage to User's or to any other person's computer, mobile phone, or other hardware or software, related to or resulting from using or downloading materials in connection with the Web and/or in connection with the Service, including any Mobile Client software. Under no circumstances will the Company be responsible for any loss or damage, including any loss or damage to any User Content or personal injury or death, resulting from anyone's use of the Site or the Service, any User Content or Third Party Applications, Software or Content posted on or through the Site or the Service or transmitted to Users, or any interactions between users of the Site, whether online or offline.
@@ -275,3 +302,5 @@ Facebook Platform Application Guidelines
 Platform Application Terms of Use
 
 Facebook Developer Terms of Service
+
+ 
