@@ -1,202 +1,347 @@
 
-Terms of Use
 
-Date of Last Revision: February 4, 2009.
 
-Welcome to the Facebook Service, a social utility that connects you with the people around you. The Facebook Service (defined below) is operated by Facebook, Inc. and its subsidiaries and affiliates ("us," "we" or "Facebook"). By using or accessing the Facebook Service, you agree that you have read, understand and are bound by these Terms of Use ("Terms"). We reserve the right, at our sole discretion, to change or delete portions of these Terms at any time without further notice. Your continued use of the Facebook Service after any such changes constitutes your acceptance of the new Terms.
+Date of Last Revision: May 1, 2009
+
+Statement of Rights and Responsibilities
+
+This Statement of Rights and Responsibilities ("Statement") derives from the Facebook Principles, and governs our relationship with users and others who interact with Facebook.  By using or accessing Facebook, you agree to this Statement.
+
 
 Privacy
 
-We care about the privacy of our users and encourage you to read our 
 
-Privacy Policy
+Your privacy is very important to us.  We designed our Privacy Policy to make important disclosures to you about how we collect and use the information you post on Facebook.  We encourage you to read the Privacy Policy, and to use the information it contains to help make informed decisions.
 
-.
 
-Eligibility
+Sharing Your Content and Information
 
-You may not use the Facebook Service if you are under 13. If you are between the ages of 13 and 17, we strongly suggest that you seek parental consent to use the Facebook Service. If you are required to register as a sex offender in any jurisdiction, you may not use the Facebook Service.
 
-Registration; Account Security
+You own all of the content and information you post on Facebook, and you can control how we share your content through your privacy and application settings.  In order for us to use certain types of content and provide you with Facebook, you agree to the following:
 
-When you register for and use the Facebook Service, you will be asked to provide information about yourself ("User Data"). Your User Data must be accurate and current at all times. You are solely responsible for maintaining the security of your account. This means, for example, that you may not share your password or let anyone else access your account. If you have reason to believe that your account is no longer secure, please let us know immediately.
+For content that is covered by intellectual property rights, like photos and videos ("IP content"), you specifically give us the following permission, subject to your privacy and application settings: you grant us a non-exclusive, transferable, sub-licensable, royalty-free, worldwide license to use any IP content that you post on or in connection with Facebook ("IP License").  This IP License ends when you delete your IP content or your account (except to the extent your content has been shared with others, and they have not deleted it).
 
-Prohibited Conduct
+When you delete IP content, it is deleted in a manner similar to emptying the recycle bin on a computer.  However, you understand that removed content may persist in backup copies for a reasonable period of time (but will not be available to others).
 
-By using or accessing the Facebook Service, you represent, warrant and agree that you will not:
+We always appreciate your feedback or other suggestions about Facebook, but you understand that we may use them without any obligation to compensate you for them (just as you have no obligation to offer them).
 
-do anything that could disable, overburden or impair the proper working of the Facebook Service;
 
-use any robot, spider, scraper or other automated means to access the Facebook Service;
+Safety
 
-send spam or any other unauthorized advertisements or solicitations through or using the Facebook Service;
 
-harvest, collect or use addresses, phone numbers or email addresses or other contact information (collectively "Contact Information") of users of the Facebook Service without consent from such users;
+We do our best to keep Facebook safe, but we cannot guarantee it.  We need your help in order to do that, which includes the following commitments:
 
-solicit private information (including social security numbers, credit card numbers and passwords) from users of the Facebook Service;
+You will not send or otherwise post unauthorized commercial communications to users (such as spam).
 
-provide any false personal information in your profile, create more than one profile, transfer your profile, create a profile for anyone other than yourself or create a page without authorization;
+You will not collect users' information, or otherwise access Facebook, using automated means (such as harvesting bots, robots, spiders, or scrapers) without our permission.
 
-use your profile (as opposed to a Page) for any commercial purpose;
+You will not upload viruses or other malicious code.
 
-offer any contest, sweepstakes, coupon or other promotion through the Facebook Service without our prior written consent;
+You will not solicit login information or access an account belonging to someone else.
 
-use an iFrame or offer web search functionality on the Facebook Service;
+You will not bully, intimidate, or harass any user.
 
-intimidate or harass any user;
+You will not post content that is hateful, threatening, pornographic, or that contains nudity or graphic or gratuitous violence.
 
-do anything that is illegal, infringing, fraudulent, malicious or could expose Facebook or the Facebook Service users to harm or liability; or
+You will not develop or operate a third party application containing, or advertise or otherwise market alcohol-related or other mature content without appropriate age-based restrictions.
 
-attempt, encourage or facilitate any of the above.
+You will not use Facebook to do anything unlawful, misleading, malicious, or discriminatory.
 
-User Content
+You will not facilitate or encourage any violations of this Statement.
 
-By using or accessing the Facebook Service, you represent, warrant and agree that you will not Post:
+Registration and Account Security
 
-User Content that violates the law or anyone's rights, including intellectual property ("IP") rights or other proprietary rights (such as rights of publicity and privacy);
+Facebook users provide their real names and information, and we need your help to keep it that way.  Here are some commitments you make to us relating to registering and maintaining the security of your account:
 
-any Contact Information or private information of any third party;
+You will not provide any false personal information on Facebook, or create an account for anyone other than yourself without permission.
 
-false, misleading or fraudulent information;
+You will not use Facebook if you are under 13.
 
-any material that contains software viruses or any other computer code designed to interrupt, destroy, or limit the functionality of any computer or telecommunications equipment;
+You will not use Facebook if you are located in a country embargoed by the U.S., or are on the U.S. Treasury Department's list of Specially Designated Nationals.
 
-alcohol-related or other mature content on Pages on the Facebook Service that have not set appropriate age based restrictions (based on the country in which the page will be viewable); or
+You will not use Facebook if you are a convicted sex offender.
 
-User Content that is threatening, hateful, racially or ethnically offensive, or that depicts nudity, pornography or graphic or gratuitous violence, or anything else that we may consider offensive.
+You will keep your contact information accurate and up-to-date.
 
-Facebook does not pre-screen, review, edit or approve any User Content. Facebook may, in its sole discretion, remove or disable access to any User Content.
+You will not share your password, let anyone else access your account, or do anything else that might jeopardize the security of your account.
 
-"User Content" means any photos, text, link, audio, video, designs, ads and anything else that you Post on or through the Facebook Service. "Post" means to upload, post, transmit, share, store, link to or otherwise make available on or through the Facebook Service.
+You will not transfer your account to anyone without first getting our written permission.
 
-IP Complaints
 
-We respect the IP rights of others and we prohibit users from Posting User Content that violates another party's IP rights. When we receive a proper claim of IP infringement, we promptly remove or disable access to the allegedly infringing User Content. We also terminate the accounts of repeat infringers in appropriate circumstances. If you believe that User Content on the Facebook Service infringes your IP rights, please visit our How to Report Claims of Intellectual Property Infringement page
+Protecting Other People's Rights
 
-. All IP claims can be made through that page, including any copyright claims, which will be handled in accordance with the Digital Millennium Copyright Act. If you are a user whose User Content was removed due to alleged copyright infringement, and you believe the removal was mistaken, please visit our 
 
-How to Appeal Claims of Copyright Infringement page
+We respect other people's rights, and expect you to do the same.
 
-.
+You will not post content or take any action on Facebook that infringes someone else's rights or otherwise violates the law.
+
+We can remove any content you post on Facebook if we believe that it violates this Statement.
+
+We will provide you with tools to help you protect your intellectual property rights.  To learn more, visit our 
+
+How to Report Claims of Intellectual Property Infringement page.
+
+If we removed your content for infringing someone else's copyright, and you believe we removed it by mistake, we will provide you with an opportunity to appeal.
+
+If you repeatedly infringe other people's intellectual property rights, we will disable your account when appropriate.
+
+You will not use our copyrights or trademarks (including Facebook, the Facebook and F Logos, FB, Face, Poke, Wall and 32665) without our written permission.
+
+If you collect information from users, you will: obtain their consent, make it clear you (and not Facebook) are the one collecting their information, and post a privacy policy explaining what information you collect and how you will use it.
+
+You will not post anyone's identification documents or sensitive financial information on Facebook.
+
 
 Mobile
 
-There are features of the Facebook Service that may be accessible via certain mobile carriers (the "Mobile Services"). While we currently do not charge for these Mobile Services, your carrier's normal messaging, data and other rates and fees will still apply. By using the Mobile Services, you agree that we may communicate with you by SMS, MMS, text message or other electronic means to your mobile device, and that certain information about your usage of the Mobile Services may be communicated to us. In the event you change or deactivate your mobile telephone number, you agree to promptly update your account information on the Facebook Service to ensure that your messages are not sent to the person that acquires your old number.
 
-Third Party Applications and Connect Sites
+We currently provide our mobile services for free, but please be aware that your carrier's normal rates and fees, such as text messaging fees, will still apply.
 
-The "Facebook Platform" is a set of APIs and services that third parties may use to (a) create applications for use on the Facebook Service ("Applications") and (b) enable their websites to work like Applications ("Connect Sites") through Facebook Connect ("Connect"). Applications and Connect Sites will be referred to together as "Applications/Connect Sites," which should be read as Applications and/or Connect Sites.
+In the event you change or deactivate your mobile telephone number, you will update your account information on Facebook within 48 hours to ensure that your messages are not sent to the person who acquires your old number.
 
-If you authorize an Application or allow a Connect Site to connect with your account on the Facebook Service, you agree that such Application/Connect Site can (a) access information on the Facebook Service related to you (including your profile information, friends and privacy settings) and (b) generate and publish news feed and other stories about actions you take on such Application/Connect Site without any additional permission. If you want to change the information that Applications/Connect Sites can access, you may modify your 
 
-privacy settings
+Payments
 
-. If you no longer want these news feed or other stories to be published, you can disable this feature by changing your 
 
-application settings
+If you purchase or use Facebook Credits, or make direct payments, you agree to our Payments Terms.
 
-. If you, your friends or members of your network use any Application/Connect Site, such Applications/Connect Sites may access and share certain information about you with others in accordance with your 
 
-privacy settings
+Special Provisions Applicable to Share Links
 
-.
 
-Once you allow a Connect Site to connect with your account on the Facebook Service, you will be able to use your login information for the Facebook Service to log into and interact with your friends on that Connect Site. In order to make Connect possible, you agree to allow us to check your cookies for the Facebook Service when you are visiting Connect Sites. When your friends connect their account on the Facebook Service with a Connect Site, Connect will enable them to find friends on the Facebook Service that may also be users of that Connect Site and invite them to use Connect as well. If you do not want your friends to be able to invite you to connect on a Connect Site, you may change your 
 
-privacy settings
+If you include our Share Link button on your website, the following additional terms apply to you:
 
- to disable this feature. Even if you have not gone through the Connect process, you may be able to authorize a Connect Site to generate and publish news feed and other stories about an action or all actions that you take on that Connect Site. If you want to change your settings for that Connect Site, visit your 
+We give you permission to use Facebook's Share Link button so that users can post links or content from your website on Facebook.
 
-application settings
+You give us permission to use such links and content on Facebook.
 
-.
+You will not place a Share Link button on any page containing content that would violate this Statement if posted on Facebook.
 
-Your Privacy Practices
 
-We respect the privacy rights of third parties, and you must do so as well on the Facebook Service.
+Special Provisions Applicable to Developers/Operators of Applications and Websites
 
-If you collect, access or use information relating to any user of the Facebook Service (including information contained in any user profile) you must obtain consent from the user and make it clear to the user that the collection, access and use is being carried out by you and not Facebook.
 
-Gift Credits
+If you are a developer or operator of a Platform application or a website using Connect ("application") or otherwise use Platform, the following additional terms apply to you:
 
-You must be authorized to use the credit card, debit card or other payment source ("Card") you provide to purchase gift credits. By purchasing gift credits, you authorize Facebook or its designated payment processor to charge the purchase amount (plus any applicable tax) to your Card. By providing your Card account information to Facebook, you authorize us to collect and store it and other related transaction information.
+You are responsible for your application and its content and all uses you make of Platform.  This includes ensuring your application or use of Platform meets our Platform Guidelines.
 
-When you purchase gift credits, you are purchasing only a limited license to use certain features on the Facebook Service that will enhance your experience on the Facebook Service, such as giving virtual gifts to your friends. Gift credits have no real value, are non-refundable and are not redeemable for any sum of money or monetary value from Facebook at any time. Facebook does not guarantee the transferability of gift credits. Gift credits may not be transferred to any third party outside of the Facebook Service and may not be used as a means to transfer money to a third party. You agree that Facebook has the absolute right to manage, regulate, control, modify and/or eliminate gift credits as it sees fit, and Facebook will have no liability to you for exercising such rights.
+When users add your application or connect it to their Facebook account, they give permission for you to receive certain data relating to them.  Your access to and use of that data will be limited as follows:
 
-Ownership; Proprietary Rights
+You will only use the data you receive for your application, and will only use it in connection with Facebook.
 
-Except for User Content and Applications/Connect Sites, all materials, content and trademarks on the Facebook Service are the property of Facebook and/or its licensors and are protected by all relevant IP laws and other proprietary rights (including copyright, trademark, trade dress and patent laws) and any other applicable laws. Without limiting the foregoing, FACEBOOK, the F LOGO, FB, FACE, POKE, THE WALL and 32665 and all related logos, are trademarks of Facebook. Except as expressly authorized by Facebook in writing, you agree not to use, sell, license, distribute, copy, publish, stream, publicly perform or display, transmit, reformat, modify, edit,  frame, translate, excerpt, adapt, create derivative works or otherwise make unauthorized use of the materials, content or trademarks.
+You will make it clear to users what user data you are going to use and how you will use, display, or share that data.
 
-Licenses
+You will not use, display, or share a user's data in a manner inconsistent with the user's privacy settings without the user's consent.
 
-You are solely responsible for the User Content that you Post on or through the Facebook Service. You hereby grant Facebook an irrevocable, perpetual, non-exclusive, transferable, fully paid, worldwide license (with the right to sublicense) to (a) use, copy, publish, stream, store, retain, publicly perform or display, transmit, scan, reformat, modify, edit, frame, translate, excerpt, adapt, create derivative works and distribute (through multiple tiers), any User Content you (i) Post on or in connection with the Facebook Service or the promotion thereof subject only to your 
+You will delete all data you received from us relating to any user who removes or disconnects from your application unless otherwise permitted in our Platform Guidelines.
 
-privacy settings
+You will delete all data you received from Facebook if we disable your application or ask you to do so.
 
- or (ii) enable a user to Post, including by offering a Share Link on your website and (b) to use your name, likeness and image for any purpose, including commercial or advertising, each of (a) and (b) on or in connection with the Facebook Service or the promotion thereof. You represent and warrant that you have all rights and permissions to grant the foregoing licenses.
+We can require you to update any data you have received from us.
 
-If you own or control a website, you may place Facebook's share link button, logo and/or text (a "Share Link"), including all trademarks therein, on your website for the sole purpose of enabling users to Post links or content from your website on the Facebook Service. By offering a Share Link on your website, you agree, represent and warrant that you will not place a Share Link on any page containing content that would violate these Terms if Posted on the Facebook Service. The rights granted in this paragraph may be revoked by us at any time in our sole discretion, and upon such termination, you will immediately remove all Share Links from your website.
+We can limit your access to data.
 
-Submissions
+You will not transfer the data you receive from us without our prior consent.
 
-You acknowledge and agree that any questions, comments, suggestions, ideas, feedback or other information that you provide to Facebook ("Submissions"), are non-confidential and non-proprietary. Facebook will be entitled to the unrestricted use of any such Submission for any purpose, commercial or otherwise, without acknowledgment or compensation to you.
+You will not give us data that you independently collect from a user or a user's content without that user's consent.
 
-User Disputes; Complaints
+You will make it easy for users to remove or disconnect from your application.
 
-You agree not to hold Facebook responsible or liable for the User Content or actions of third parties (including your interactions with users) on or relating to the Facebook Service. This includes transactions conducted on the Facebook Service as well as the collection, handling and sharing of personal information that you provide to third parties. If you have a dispute with a third party relating to the Facebook Service, you release Facebook and its directors, officers, employees and agents (collectively, the "Facebook Entities") from any claims, causes of action and damages (actual and consequential) of every kind and nature, known and unknown, arising out of or in any way connected with such dispute. If you are a California resident, you waive California Civil Code Â§1542, which says: "A general release does not extend to claims which the creditor does not know or suspect to exist in his favor at the time of executing the release, which if known by him must have materially affected his settlement with the debtor."
+You will make it easy for users to contact you. We can also share your email address with users.
 
-If you believe that the Facebook Service or Facebook's business practices are in any way unfair, fraudulent or unlawful, you agree to bring it to the attention of Facebook's legal department. If you do not report the issue or continue using the service after discovering the issue, you expressly waive the right to claim that the Facebook Service is unfair, fraudulent or unlawful with respect to that issue.
+You will provide customer support for your application.
 
-Indemnity
+You will not show ads or web search boxes on Facebook profiles.
 
-You agree to indemnify and hold Facebook Entities harmless from and against any claim or cause of action brought by a third party as well as any related damages, costs and expenses (including reasonable attorneys' fees) ("Claim") arising out of or related to your (a) use of the Facebook Service or any of the applications, features, content or materials related thereto; (b) violation of these Terms; (c) violation of the rights of any other person or entity; or (d) breach of the representations, warranties and covenants made by you herein. Facebook reserves the right, at your expense, to assume the exclusive defense and control of any matter for which you are required to indemnify Facebook, and you agree to cooperate with Facebook's defense of these Claims.
+We give you all rights necessary to use the code, APIs (along with all content and data received), or tools we provide to you, but only in connection with your application.
 
-General Disclaimers
+You will not sell, transfer, or sublicense our code, APIs, or tools to anyone.
 
-USE OF THE FACEBOOK SERVICE IS AT YOUR OWN RISK. THE FACEBOOK SERVICE, FACEBOOK WEBSITES AND ALL APPLICATIONS, FEATURES, CONTENT AND MATERIALS MADE AVAILABLE ON, IN CONJUNCTION WITH OR THROUGH THE FACEBOOK SERVICE ARE PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTIES OF ANY KIND EITHER EXPRESS OR IMPLIED. TO THE FULLEST EXTENT PERMISSIBLE PURSUANT TO APPLICABLE LAW, FACEBOOK, ITS SUPPLIERS, LICENSORS AND PARTNERS DISCLAIM ALL WARRANTIES, STATUTORY, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT OF PROPRIETARY RIGHTS. WITHOUT LIMITING THE FOREGOING, FACEBOOK, ITS SUPPLIERS, LICENSORS AND PARTNERS DO NOT WARRANT THAT THE FACEBOOK SERVICE WILL BE AVAILABLE, UNINTERRUPTED OR ERROR-FREE, THAT DEFECTS WILL BE CORRECTED OR THAT THE FACEBOOK SERVICE OR THE SERVER THAT MAKES IT AVAILABLE IS FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS.
+You will not misrepresent your relationship with Facebook to others.
 
-FACEBOOK IS NOT RESPONSIBLE OR LIABLE FOR, AND DOES NOT APPROVE OR ENDORSE ANY THIRD PARTY CONTENT, MATERIALS, WEBSITES OR APPLICATIONS  MADE AVAILABLE ON OR THROUGH THE FACEBOOK SERVICE (COLLECTIVELY, "THIRD PARTY MATERIALS"). WITHOUT LIMITING THE FOREGOING, WE ARE NOT RESPONSIBLE FOR THE CONTENT, ACCURACY, AVAILABILITY, OFFENSIVENESS, OPINIONS, RELIABILITY, PRIVACY PRACTICES OR OTHER POLICIES APPLICABLE TO SUCH THIRD PARTY MATERIALS, AND WE CANNOT AND DO NOT GUARANTEE THAT THIRD PARTY MATERIALS WILL COMPLY WITH THE RESTRICTIONS, CONDITIONS OR OBLIGATIONS THAT WE REQUIRE. IF YOU DECIDE TO USE OR ACCESS THIRD PARTY MATERIALS, YOU DO SO AT YOUR OWN RISK AND YOU MAY BE REQUIRED TO AGREE TO TERMS OF SERVICE, PRIVACY AND DATA GATHERING PRACTICES AND OTHER POLICIES APPLICABLE TO SUCH THIRD PARTY MATERIALS. PLEASE REVIEW ALL SUCH TERMS AND POLICIES CAREFULLY.
+You may use the logos we make available to developers or  issue a press release or other public statement so long as you follow our Platform Guidelines.
 
-CERTAIN STATE LAWS DO NOT ALLOW LIMITATIONS ON IMPLIED WARRANTIES OR THE EXCLUSION OR LIMITATION OF CERTAIN DAMAGES. IF THESE LAWS APPLY TO YOU, SOME OR ALL OF THE ABOVE DISCLAIMERS, EXCLUSIONS OR LIMITATIONS MAY NOT APPLY TO YOU, AND YOU MIGHT HAVE ADDITIONAL RIGHTS.
+We can issue a press release describing our relationship with you.
 
-Limitation on Liability
+You will comply with all applicable laws.  In particular you will (if applicable):
 
-UNDER NO CIRCUMSTANCES, INCLUDING, BUT NOT LIMITED TO, NEGLIGENCE, WILL FACEBOOK ENTITIES OR THEIR LICENSORS OR SUPPLIERS BE LIABLE FOR ANY SPECIAL, INDIRECT, INCIDENTAL, CONSEQUENTIAL, PUNITIVE, RELIANCE OR EXEMPLARY DAMAGES, INCLUDING FOR ANY LOST PROFITS OR LOST DATA, THAT RESULT FROM YOUR USE OR YOUR INABILITY TO USE THE FACEBOOK SERVICE, THE FACEBOOK WEBSITES OR ANY APPLICATIONS, FEATURES, CONTENT OR THIRD PARTY MATERIALS MADE AVAILABLE ON, IN CONJUNCTION WITH OR THROUGH THE FACEBOOK SERVICE, EVEN IF FACEBOOK OR A FACEBOOK AUTHORIZED REPRESENTATIVE HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. APPLICABLE LAW MAY NOT ALLOW THE LIMITATION OR EXCLUSION OF LIABILITY OR INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THE ABOVE LIMITATION OR EXCLUSION MAY NOT APPLY TO YOU. IN SUCH CASES, FACEBOOK'S LIABILITY WILL BE LIMITED TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW.
+have a policy for removing infringing content and terminating repeat infringers that complies with the Digital Millennium Copyright Act.
 
-IN NO EVENT WILL THE TOTAL AGGREGATE LIABILITY TO YOU OF FACEBOOK ENTITIES OR OF THEIR LICENSORS OR SUPPLIERS FOR ALL DAMAGES, LOSSES, CLAIMS AND CAUSES OF ACTION ARISING OUT OF OR RELATING TO THESE TERMS OR YOUR USE OF THE FACEBOOK SERVICE, INCLUDING WITHOUT LIMITATION YOUR INTERACTIONS WITH OTHER USERS OF THE FACEBOOK SERVICE (WHETHER IN CONTRACT, TORT INCLUDING NEGLIGENCE, WARRANTY OR OTHERWISE) EXCEED THE AMOUNT PAID BY YOU, IF ANY, TO FACEBOOK DURING THE TWELVE MONTHS IMMEDIATELY PRECEDING THE DAY THE ACT OR OMISSION OCCURRED THAT GAVE RISE TO YOUR CLAIM OR $100, WHICHEVER IS GREATER.
+comply with the Video Privacy Protection Act ("VPPA"), and will obtain explicit, opt-in consent from users prior to sharing with Facebook user data subject to the VPPA.  You acknowledge Facebook has no obligations under the VPPA.
 
-Termination and Changes to the Facebook Service
+We do not guarantee that Platform will always be free.
 
-We may terminate your account on the Facebook Service, delete your profile and any User Content you have Posted on or through the Facebook Service, and/or prohibit you from using or accessing the Facebook Service (or any portion thereof) for any or no reason, at any time in our sole discretion, with or without notice. Further, we reserve the right to change any aspect or feature of the Facebook Service at any time without notice. The following sections will survive any termination of your use of the Facebook Service: Prohibited Conduct, User Content, Your Privacy Practices, Gift Credits, Ownership; Proprietary Rights, Licenses, Submissions, User Disputes; Complaints, Indemnity, General Disclaimers, Limitation on Liability, Termination and Changes to the Facebook Service, Arbitration, Governing Law; Venue and Jurisdiction and Other.
+You give us all rights necessary to enable your application to work with Facebook, including the right to:
 
-Arbitration
+incorporate your content into streams, profiles, and user action stories;
 
-Except as set forth in the paragraph below, you agree that all claims and disputes between you and Facebook that arise out of or relate in any way to the Terms or your use of the Facebook Service will be resolved either by (a) binding arbitration by a single arbitrator in Santa Clara County, California or (b) binding non-appearance based arbitration conducted by telephone, online or based solely on written submission. Such arbitration will be administered by Judicial Arbitration and Mediation Services ("JAMS") (see www.jamsadr.com) pursuant to its Comprehensive Arbitration Rules. The arbitrator's award will be binding and may be entered as a judgment in any court of competent jurisdiction.
+link to or frame your application; and place content, including ads, around your application.
 
-With respect to any claims or disputes you intend to bring on behalf of a class, you agree to arbitrate whether a class could be certified before bringing such action in a court of law. If the arbitrator refuses to certify the class, you will continue to resolve your individual claims or disputes through binding arbitration. If the arbitrator finds that a class should be certified, you may file the class action in a court of law provided you waive any right to a trial by jury. Claims for injunctive or other equitable relief may also be brought in a court of law.
+We can analyze your application, content, and data for any purpose, including commercial (such as for targeting the delivery of advertisements and indexing content for search).
 
-Governing Law; Venue and Jurisdiction
+To ensure your application is safe for users, we can audit it.
 
-You agree that all claims and disputes between you and Facebook that arise out of or relate in any way to the Terms or your use of the Facebook Service will be governed by the laws of the State of California (and United States federal laws applicable therein), without regard to principles of conflict of laws. You further agree that you will bring any claims or disputes that are not subject to arbitration (as set forth above) in, and you submit to the exclusive jurisdiction of, the state and federal courts located in Santa Clara County, California.
+We can create applications that offer similar features and services to, or otherwise compete with, your application.
+
+About Advertisements on Facebook
+
+Our goal is to deliver ads that are not only valuable to advertisers, but also valuable to you.  In order to do that, you agree to the following:
+
+You can use your privacy settings to limit how your name and profile picture may be associated with commercial or sponsored content.  You give us permission to use your name and profile picture in connection with that content, subject to the limits you place.
+
+We do not give your content to advertisers.
+
+You understand that we may not always identify paid services and communications as such.
+
+
+Special Provisions Applicable to Advertisers
+
+
+You can target your specific audience by buying ads on Facebook or our publisher network.  The following additional terms apply to you if you place an order through our online advertising portal ("Order"):
+
+If you are placing ads on someone else's behalf, we need to make sure you have permission to place those ads, including the following:
+
+When you place an Order, you will tell us the type of advertising you want to buy, the amount you want to spend, and your bid.  If we accept your Order, we will deliver your ads as inventory becomes available.
+
+You will pay for your Orders in accordance with our Payments Terms
+
+The amount you owe will be calculated based on our tracking mechanisms.
+
+Your ads will comply with our Ad Guidelines
+
+We will determine the size, placement, and positioning of your ads.
+
+We do not guarantee the activity that your ads will receive, such as the number of clicks you will get.
+
+We cannot control how people interact with your ads, and are not responsible for click fraud or other improper actions that affect the cost of running ads.
+
+You will not offer any contest or sweepstakes ("promotion") without our prior written consent.  If we consent, you take full responsibility for the promotion, and will follow our Promotions Guidelines and all applicable laws.
+
+You can cancel your Order at any time through our online portal, but it may take us seven days before the ad stops running.
+
+Our license to run your ad will end when we have completed your Order.  You understand, however, that if users have interacted with your ads, your ads may remain until the users delete it.
+
+We can use your ads and related information for marketing or promotional purposes.
+
+You will not issue any press release or make public statements about your relationship with Facebook without written permission.
+
+We may reject or remove any ad for any reason.
+
+You warrant that you have the legal authority to bind the advertiser to this Statement.
+
+You agree that if the advertiser you represent violates this Statement, we may hold you responsible for that violation.
+
+
+Amendments
+
+
+We can change this Statement so long as we provide you notice through Facebook (unless you opt-out of such notice) and an opportunity to comment.
+
+For changes to sections 7, 8, 9, and 11 (sections relating to payments, application developers, website operators, and advertisers), we will give you a minimum of three days notice.  For all other changes we will give you a minimum of seven days notice.
+
+If more than 7,000 users comment on the proposed change, we will also give you the opportunity to participate in a vote in which you will be provided alternatives.  The vote shall be binding on us if more than 30% of all active registered users as of the date of the notice vote.
+
+We can make changes for legal or administrative reasons upon notice without opportunity to comment.
+
+
+Termination
+
+
+If you violate the letter or spirit of this Statement, or otherwise create possible legal exposure for us, we can stop providing all or part of Facebook to you.  We will generally try to notify you, but have no obligation to do so.  You may also delete your account or disable your application at any time.  In all such cases, this Statement shall terminate, but the following provisions will still apply: 2.2, 2.3, 3-5, 8.2, 9.1-9.3, 9.9, 9.10, 9.13, 9.15.1, 9.18, 10.3, 11.2, 11.5, 11.6, 11.9, 11.10, 11.13, 11.14, and 13-16.
+
+
+Disputes
+
+
+You will resolve any claim, cause of action or dispute ("claim") you have with us arising out of or relating to this Statement or Facebook in a state or federal court located in Santa Clara County.  The laws of the State of California will govern this Statement, as well as any claim that might arise between you and us, without regard to conflict of law provisions.  You agree to submit to the personal jurisdiction of the courts located in Santa Clara County, California for the purpose of litigating all such claims.
+
+If anyone brings a claim against us related to your actions or your content on Facebook, you will indemnify and hold us harmless from and against all damages, losses, and expenses of any kind (including reasonable legal fees and costs) related to such claim.
+
+WE TRY TO KEEP FACEBOOK UP, BUG-FREE, AND SAFE, BUT YOU USE IT AT YOUR OWN RISK. WE ARE PROVIDING FACEBOOK "AS IS" WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.  WE DO NOT GUARANTEE THAT FACEBOOK WILL BE SAFE OR SECURE.  FACEBOOK IS NOT RESPONSIBLE FOR THE ACTIONS OR CONTENT OF THIRD PARTIES, AND YOU RELEASE US, OUR DIRECTORS, OFFICERS, EMPLOYEES, AND AGENTS FROM ANY CLAIMS AND DAMAGES, KNOWN AND UNKNOWN, ARISING OUT OF OR IN ANY WAY CONNECTED WITH ANY CLAIM YOU HAVE AGAINST ANY SUCH THIRD PARTIES.  IF YOU ARE A CALIFORNIA RESIDENT, YOU WAIVE CALIFORNIA CIVIL CODE Â§1542, WHICH SAYS: "A GENERAL RELEASE DOES NOT EXTEND TO CLAIMS WHICH THE CREDITOR DOES NOT KNOW OR SUSPECT TO EXIST IN HIS FAVOR AT THE TIME OF EXECUTING THE RELEASE, WHICH IF KNOWN BY HIM MUST HAVE MATERIALLY AFFECTED HIS SETTLEMENT WITH THE DEBTOR."  WE WILL NOT BE LIABLE TO YOU FOR ANY LOST PROFITS OR OTHER CONSEQUENTIAL, SPECIAL, INDIRECT, OR INCIDENTAL DAMAGES ARISING OUT OF OR IN CONNECTION WITH THIS STATEMENT OR FACEBOOK, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. OUR AGGREGATE LIABILITY ARISING OUT OF THIS STATEMENT OR FACEBOOK WILL NOT EXCEED THE GREATER OF ONE HUNDRED DOLLARS ($100) OR THE AMOUNT YOU HAVE PAID US IN THE PAST TWELVE MONTHS.  APPLICABLE LAW MAY NOT ALLOW THE LIMITATION OR EXCLUSION OF LIABILITY OR INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THE ABOVE LIMITATION OR EXCLUSION MAY NOT APPLY TO YOU.  IN SUCH CASES, FACEBOOK'S LIABILITY WILL BE LIMITED TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW.
+
+
+Definitions
+
+
+By "Facebook" we mean the features and services we make available, including through (a) our website at www.facebook.com and any other Facebook branded or co-branded websites (including sub-domains, international versions, and mobile versions); (b) our Platform; and (c) other media, devices or networks now existing or later developed.
+
+By "us," "we" and "our" we mean Facebook, Inc. and/or its affiliates.
+
+By "Platform" we mean a set of APIs and services that enable applications, developers, operators or services to retrieve data from Facebook and provide data to us relating to Facebook users.
+
+By "content" we mean the content and information you post on Facebook, including information about you and the actions you take.
+
+By "post" we mean post on Facebook or otherwise make available to us.
+
+By "use" we mean use, copy, publicly perform or display, distribute, modify, translate, and create derivative works of.
+
 
 Other
 
-The "Facebook Service" means the features, services and properties that Facebook makes available through (a) 
 
-www.facebook.com
+This Statement makes up the entire agreement between the parties regarding Facebook, and supersedes any prior agreements.
 
- or any other Facebook-branded or co-branded website (including, without limitation, any and all sub-domains and all international, mobile versions and successors thereof), (b) the Facebook Platform and (c) other media, devices or networks now existing or later developed. Unless otherwise specified, the terms "includes," "including," "e.g.," "for example," and other similar terms used herein are deemed to include the term "without limitation" immediately thereafter. Our failure to exercise or enforce any right or provision of these Terms will not constitute a waiver of such right or provision in that or any other instance. If, for any reason, any provision of these Terms or portion thereof is rendered invalid or unenforceable, the remainder of these Terms will remain in full force and effect and will be enforced to the maximum extent permissible so as to effect the intent of the parties. An arbitrator or court will substitute or rewrite any invalid or unenforceable term or provision to make such term or provision valid and enforceable. All communications and notices to be made or given pursuant to these Terms will be in the English language. You consent to receiving communications and notices from Facebook at the email address you provide in registering for the Facebook Service or otherwise elect in your 
+If any portion of this Statement is found to be unenforceable, the remaining portion will remain in full force and effect.
 
-account settings
+If we fail to enforce any of this Statement, it will not be considered a waiver.
 
-. These Terms constitute the entire agreement and supersede any prior agreement between you and us regarding your use of the Facebook Service.
+Any amendment to or waiver of this Statement must be made in writing and signed by us.
 
-Questions
+You will not transfer any of your rights or obligations under this Statement to anyone else without our consent.
 
-Please visit our 
+All of our rights and obligations under this Statement are freely assignable by us in connection with a merger, acquisition, or sale of assets, or by operation of law or otherwise.
 
-Help
+Nothing in this Agreement shall prevent us from complying with the law.
 
- pages for more information.
+This Statement does not confer any third party beneficiary rights.
+
+If you would like us to notify you of any future changes to this Statement, visit our Facebook Site Governance Page and become a fan.
+
+You may also want to review the following documents:
+
+Privacy Policy
+
+:  The Privacy Policy is designed to help you understand how we collect and use information.
+
+Payment Terms
+
+:  These additional terms apply to all payments made on or through Facebook.
+
+Understanding Platform
+
+:  This page helps you better understand what happens when you add a third-party application or use Facebook Connect, including how they may access and use your data.
+
+Platform Guidelines
+
+:  These guidelines outline the policies that apply to application developers and Connect sites.
+
+Ad Guidelines
+
+: These guidelines outline the policies that apply to advertisements placed on Facebook.
+
+Promotions Guidelines
+
+: These guidelines outline the policies that apply to contests, sweepstakes, and other types of promotions on Facebook.
+
+How to Report Claims of Intellectual Property Infringement
+
+How to Appeal Claims of Copyright Infringement
+
+To access the Statement of Rights and Responsibilities in several different languages, please use the following links:
+
+French translation  (FranÃ§ais)
+
+Italian translation  (Italiano)
+
+German translation  (Deutsch)
+
+Spanish translation  (EspaÃ±ol)
+
+
+
+
+
+
 
  
