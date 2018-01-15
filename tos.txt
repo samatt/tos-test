@@ -1,28 +1,27 @@
+This agreement was written in English (US).  Please note that Section 16 contains certain changes to the general terms for users outside the United States.
 
 
-
-Date of Last Revision: August 28, 2009
+Date of Last Revision: December 21, 2009
 
 Statement of Rights and Responsibilities
 
-This Statement of Rights and Responsibilities ("Statement") derives from the 
-Facebook Principles, and governs our relationship with users and others who interact with Facebook. By using or accessing Facebook, you agree to this Statement.
+This Statement of Rights and Responsibilities ("Statement") derives from the Facebook Principles, and governs our relationship with users and others who interact with Facebook. By using or accessing Facebook, you agree to this Statement.
 
-Privacy
+
+Privacy 
 
 
 Your privacy is very important to us. We designed our Privacy Policy to make important disclosures about how you can use Facebook to share with others and how we collect and can use your content and information. We encourage you to read the Privacy Policy, and to use it to help make informed decisions.
 
 
-Sharing Your Content and Information
+Sharing Your Content and Information 
 
 
-You own all of the content and information you post on Facebook, and you can control how it is shared through your privacy and application settings
-
+You own all of the content and information you post on Facebook, and you can control how it is shared through your privacy and  application settings
 
 In addition:
 
-For content that is covered by intellectual property rights, like photos and videos ("IP content"), you specifically give us the following permission, subject to your privacy and application settings: you grant us a non-exclusive, transferable, sub-licensable, royalty-free, worldwide license to use any IP content that you post on or in connection with Facebook ("IP License"). This IP License ends when you delete your IP content or your account unless your content has been shared with others, and they have not deleted it.
+For content that is covered by intellectual property rights, like photos and videos ("IP content"), you specifically give us the following permission, subject to your privacy and  application settings: you grant us a non-exclusive, transferable, sub-licensable, royalty-free, worldwide license to use any IP content that you post on or in connection with Facebook ("IP License"). This IP License ends when you delete your IP content or your account unless your content has been shared with others, and they have not deleted it.
 
 When you delete IP content, it is deleted in a manner similar to emptying the recycle bin on a computer. However, you understand that removed content may persist in backup copies for a reasonable period of time (but will not be available to others).
 
@@ -33,7 +32,7 @@ When you publish content or information using the "everyone" setting, it means t
 We always appreciate your feedback or other suggestions about Facebook, but you understand that we may use them without any obligation to compensate you for them (just as you have no obligation to offer them).
 
 
-Safety
+Safety 
 
 
 We do our best to keep Facebook safe, but we cannot guarantee it. We need your help to do that, which includes the following commitments:
@@ -54,8 +53,7 @@ You will not post content that is hateful, threatening, pornographic, or that co
 
 You will not develop or operate a third party application containing, or advertise or otherwise market alcohol-related or other mature content without appropriate age-based restrictions.
 
-You will not offer any contest, giveaway, or sweepstakes ("promotion") on Facebook without our prior written consent. If we consent, you take full responsibility for the promotion, and will follow our  Promotions Guidelines
-and all applicable laws.
+You will not offer any contest, giveaway, or sweepstakes ("promotion") on Facebook without our prior written consent. If we consent, you take full responsibility for the promotion, and will follow our Promotions Guidelines and all applicable laws.
 
 You will not use Facebook to do anything unlawful, misleading, malicious, or discriminatory.
 
@@ -64,7 +62,7 @@ You will not do anything that could disable, overburden, or impair the proper wo
 You will not facilitate or encourage any violations of this Statement.
 
 
-Registration and Account Security
+Registration and Account Security 
 
 
 Facebook users provide their real names and information, and we need your help to keep it that way. Here are some commitments you make to us relating to registering and maintaining the security of your account:
@@ -107,22 +105,24 @@ If you collect information from users, you will: obtain their consent, make it c
 
 You will not post anyone's identification documents or sensitive financial information on Facebook.
 
+You will not send email invitations to non-users without their consent.
 
-Mobile
-  
+
+Mobile 
+
 
 We currently provide our mobile services for free, but please be aware that your carrier's normal rates and fees, such as text messaging fees, will still apply.
 
 In the event you change or deactivate your mobile telephone number, you will update your account information on Facebook within 48 hours to ensure that your messages are not sent to the person who acquires your old number.
 
 
-Payments
+Payments 
 
 
-If you make a payment on Facebook or use Facebook Credits, you agree to our Payments Terms.
+If you make a payment on Facebook or use Facebook Credits, you agree to our Payments Terms
 
 
-Special Provisions Applicable to Share Links
+Special Provisions Applicable to Share Links 
 
 
 If you include our Share Link button on your website, the following additional terms apply to you:
@@ -133,23 +133,29 @@ You give us permission to use such links and content on Facebook.
 
 You will not place a Share Link button on any page containing content that would violate this Statement if posted on Facebook.
 
-Special Provisions Applicable to Developers/Operators of Applications and Websites
+
+Special Provisions Applicable to Developers/Operators of Applications and Websites 
+
 
 If you are a developer or operator of a Platform application or website, the following additional terms apply to you:
 
-You are responsible for your application and its content and all uses you make of Platform. This includes ensuring your application or use of Platform meets our Platform Guidelines and our Advertising Guidelines.
+You are responsible for your application and its content and all uses you make of Platform. This includes ensuring your application or use of Platform meets our Platform Policies and ou  Advertising Guidelines.
 
 Your access to and use of data you receive from Facebook, will be limited as follows:
-    
+								
 You will only request data you need to operate your application.
 
-You will have a privacy policy or otherwise make it clear to users what user data you are going to use and how you will use, display, or share that data..
+You will only use the data you receive for your application, and will only use it in connection with Facebook.
 
-You will make it clear to users what user data you are going to use and how you will use, display, or share that data.
+You will have a privacy policy or otherwise make it clear to users what user data you are going to use and how you will use, display, or share that data.
 
-You will not use, display, or share a user's data in a manner inconsistent with the user's privacy settings.
+You will not use, display, or share a user's data in a manner inconsistent with the user's  privacy settings.
 
-You will delete all data you received from us relating to any user who deauthorizes, disconnects, or otherwise disassociates from your application unless otherwise permitted in our Platform Guidelines
+You will delete all data you received from us relating to any user who deauthorizes, disconnects, or otherwise disassociates from your application unless otherwise permitted in our 
+
+
+Platform Policies
+
 
 You will delete all data you received from Facebook if we disable your application or ask you to do so.
 
@@ -175,15 +181,15 @@ You will not sell, transfer, or sublicense our code, APIs, or tools to anyone.
 
 You will not misrepresent your relationship with Facebook to others.
 
-We can issue a press release or other public statement so long as you follow our Platform Guidelines.
+You may use the logos we make available to developers or issue a press release or other public statement so long as you follow our Platform Policies.
 
 We can issue a press release describing our relationship with you.
 
 You will comply with all applicable laws. In particular you will (if applicable):
-    
+
 have a policy for removing infringing content and terminating repeat infringers that complies with the Digital Millennium Copyright Act.
 
-comply with the Video Privacy Protection Act ("VPPA"), and will obtain explicit, opt-in consent from users prior to sharing with Facebook user data subject to the VPPA. You acknowledge Facebook has no obligations under the VPPA.
+comply with the Video Privacy Protection Act ("VPPA"), and will obtain any opt-in consent necessary from users so that user data subject to the VPPA may be shared on Facebook.  You represent that any disclosure to us will not be incidental to the ordinary course of your business.
 
 We do not guarantee that Platform will always be free.
 
@@ -198,7 +204,7 @@ To ensure your application is safe for users, we can audit it.
 We can create applications that offer similar features and services to, or otherwise compete with, your application.
 
 
-About Advertisements on Facebook
+About Advertisements on Facebook 
 
 
 Our goal is to deliver ads that are not only valuable to advertisers, but also valuable to you. In order to do that, you agree to the following:
@@ -210,26 +216,23 @@ We do not give your content or information to advertisers without your consent.
 You understand that we may not always identify paid services and communications as such.
 
 
-Special Provisions Applicable to Advertisers
+Special Provisions Applicable to Advertisers 
 
 
 You can target your specific audience by buying ads on Facebook or our publisher network. The following additional terms apply to you if you place an order through our online advertising portal ("Order"):
 
 When you place an Order, you will tell us the type of advertising you want to buy, the amount you want to spend, and your bid. If we accept your Order, we will deliver your ads as inventory becomes available.
 
-You will pay for your Orders in accordance with our Payments Terms
-
-The amount you owe will be calculated based on our tracking mechanisms.
-
-Your ads will comply with our Advertising Guidelines.
+You will pay for your Orders in accordance with our Payments Terms The amount you owe will be calculated based on our tracking mechanisms.
+Your ads will comply with our  Advertising Guidelines.
 
 We will determine the size, placement, and positioning of your ads.
 
 We do not guarantee the activity that your ads will receive, such as the number of clicks you will get.
 
-We cannot control how people interact with your ads, and are not responsible for click fraud or other improper actions that affect the cost of running ads.
+We cannot control how people interact with your ads, and are not responsible for click fraud or other improper actions that affect the cost of running ads.  We do, however, have systems to detect and filter certain suspicious activity, learn more here.
 
-You can cancel your Order at any time through our online portal, but it may take us seven days before the ad stops running.
+You can cancel your Order at any time through our online portal, but it may take up to 24 hours before the ad stops running.
 
 Our license to run your ad will end when we have completed your Order. You understand, however, that if users have interacted with your ads, your ads may remain until the users delete it.
 
@@ -239,7 +242,6 @@ You will not issue any press release or make public statements about your relati
 
 We may reject or remove any ad for any reason.
 
-
 If you are placing ads on someone else's behalf, we need to make sure you have permission to place those ads, including the following:
 
 You warrant that you have the legal authority to bind the advertiser to this Statement.
@@ -247,11 +249,10 @@ You warrant that you have the legal authority to bind the advertiser to this Sta
 You agree that if the advertiser you represent violates this Statement, we may hold you responsible for that violation.
 
 
-Special Provisions Applicable to Pages
-  
+Special Provisions Applicable to Pages 
+
 
 Pages are special profiles that may only be used to promote a business or other commercial, political, or charitable organization or endeavor (including non-profit organizations, political campaigns, bands, and celebrities).
-
 
 You may only administer a Facebook Page if you are an authorized representative of the subject of the Page.
 
@@ -267,46 +268,55 @@ If you collect user information on your Page, Section 9 of this Statement also a
 
 If you display advertising on your Page, Section 11 of this Statement also applies to you.
 
+You may not establish terms beyond those set forth in this Statement to govern the posting of content by users on a Page you administer, except you may disclose they types of content you will remove from your Page and grounds for which you may ban a user from accessing the Page.
 
-Amendments
-  
+You will restrict access to your Page in order to comply with all applicable laws.  For example, if your Page includes content not suitable for minors, you will use your Page to block minors from accessing your Page.
 
-We can change this Statement if we provide you notice (by posting the change on the  Facebook Site Governance Page) and an opportunity to comment To get notice of any future changes to this Statement, visit our Facebook Site Governance Page and become a fan.
 
+Amendments 
+
+
+We can change this Statement if we provide you notice (by posting the change on the Facebook Site Governance Page) and an opportunity to comment To get notice of any future changes to this Statement, visit our Facebook Site Governance Page and become a fan.
 
 For changes to sections 7, 8, 9, and 11 (sections relating to payments, application developers, website operators, and advertisers), we will give you a minimum of three days notice. For all other changes we will give you a minimum of seven days notice. All such comments must be made on the 
 
-
 Facebook Site Governance Page
-
 
 If more than 7,000 users comment on the proposed change, we will also give you the opportunity to participate in a vote in which you will be provided alternatives. The vote shall be binding on us if more than 30% of all active registered users as of the date of the notice vote.
 
 We can make changes for legal or administrative reasons upon notice without opportunity to comment.
 
 
-Termination
+Termination 
 
 
-If you violate the letter or spirit of this Statement, or otherwise create possible legal exposure for us, we can stop providing all or part of Facebook to you. We will  notify you by email or at the next time you attempt to access your account. You may also delete your account or disable your application at any time. In all such cases, this Statement shall terminate, but the following provisions will still apply: 2.2, 2.4, 3-5, 8.2, 9.1-9.3, 9.9, 9.10, 9.13, 9.15.1, 9.18, 10.3, 11.2, 11.5, 11.6, 11.9, 11.9, 11.12, 11.13, and 14-18.
+If you violate the letter or spirit of this Statement, or otherwise create possible legal exposure for us, we can stop providing all or part of Facebook to you. We will notify you by email or at the next time you attempt to access your account. You may also delete your account or disable your application at any time. In all such cases, this Statement shall terminate, but the following provisions will still apply: 2.2, 2.4, 3-5, 8.2, 9.1-9.3, 9.9, 9.10, 9.13, 9.15.1, 9.18, 10.3, 11.2, 11.5, 11.6, 11.9, 11.9, 11.12, 11.13, and 14-18.
 
 
-Disputes
-  
+Disputes 
 
-You will resolve any claim, cause of action or dispute ("claim") you have with us arising out of or relating to this Statement or Facebook exclusively in a state or federal court located in Santa Clara County. The laws of the State of California will govern this Statement, as well as any claim that might arise between you and us, without regard to conflict of law provisions. You agree to submit to the personal jurisdiction of the courts located in Santa Clara County, California for the purpose of litigating all such claims.If anyone brings a claim against us related to your actions, content or information on Facebook, you will indemnify and hold us harmless from and against all damages, losses, and expenses of any kind (including reasonable legal fees and costs) related to such claim.WE TRY TO KEEP FACEBOOK UP, BUG-FREE, AND SAFE, BUT YOU USE IT AT YOUR OWN RISK. WE ARE PROVIDING FACEBOOK "AS IS" WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. WE DO NOT GUARANTEE THAT FACEBOOK WILL BE SAFE OR SECURE. FACEBOOK IS NOT RESPONSIBLE FOR THE ACTIONS, CONTENT, INFORMATION, OR DATA OF THIRD PARTIES, AND YOU RELEASE US, OUR DIRECTORS, OFFICERS, EMPLOYEES, AND AGENTS FROM ANY CLAIMS AND DAMAGES, KNOWN AND UNKNOWN, ARISING OUT OF OR IN ANY WAY CONNECTED WITH ANY CLAIM YOU HAVE AGAINST ANY SUCH THIRD PARTIES. IF YOU ARE A CALIFORNIA RESIDENT, YOU WAIVE CALIFORNIA CIVIL CODE Â§1542, WHICH SAYS: "A GENERAL RELEASE DOES NOT EXTEND TO CLAIMS WHICH THE CREDITOR DOES NOT KNOW OR SUSPECT TO EXIST IN HIS FAVOR AT THE TIME OF EXECUTING THE RELEASE, WHICH IF KNOWN BY HIM MUST HAVE MATERIALLY AFFECTED HIS SETTLEMENT WITH THE DEBTOR." WE WILL NOT BE LIABLE TO YOU FOR ANY LOST PROFITS OR OTHER CONSEQUENTIAL, SPECIAL, INDIRECT, OR INCIDENTAL DAMAGES ARISING OUT OF OR IN CONNECTION WITH THIS STATEMENT OR FACEBOOK, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. OUR AGGREGATE LIABILITY ARISING OUT OF THIS STATEMENT OR FACEBOOK WILL NOT EXCEED THE GREATER OF ONE HUNDRED DOLLARS ($100) OR THE AMOUNT YOU HAVE PAID US IN THE PAST TWELVE MONTHS. APPLICABLE LAW MAY NOT ALLOW THE LIMITATION OR EXCLUSION OF LIABILITY OR INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THE ABOVE LIMITATION OR EXCLUSION MAY NOT APPLY TO YOU. IN SUCH CASES, FACEBOOK'S LIABILITY WILL BE LIMITED TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW.
 
-Special Provisions Applicable to Users Outside the United States
+You will resolve any claim, cause of action or dispute ("claim") you have with us arising out of or relating to this Statement or Facebook exclusively in a state or federal court located in Santa Clara County. The laws of the State of California will govern this Statement, as well as any claim that might arise between you and us, without regard to conflict of law provisions. You agree to submit to the personal jurisdiction of the courts located in Santa Clara County, California for the purpose of litigating all such claims.
 
-We strive to create a global community with consistent standards for everyone, but we also strive to respect local laws.  The following provisions apply to users outside the United States:
+If anyone brings a claim against us related to your actions, content or information on Facebook, you will indemnify and hold us harmless from and against all damages, losses, and expenses of any kind (including reasonable legal fees and costs) related to such claim.
+
+WE TRY TO KEEP FACEBOOK UP, BUG-FREE, AND SAFE, BUT YOU USE IT AT YOUR OWN RISK. WE ARE PROVIDING FACEBOOK "AS IS" WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. WE DO NOT GUARANTEE THAT FACEBOOK WILL BE SAFE OR SECURE. FACEBOOK IS NOT RESPONSIBLE FOR THE ACTIONS, CONTENT, INFORMATION, OR DATA OF THIRD PARTIES, AND YOU RELEASE US, OUR DIRECTORS, OFFICERS, EMPLOYEES, AND AGENTS FROM ANY CLAIMS AND DAMAGES, KNOWN AND UNKNOWN, ARISING OUT OF OR IN ANY WAY CONNECTED WITH ANY CLAIM YOU HAVE AGAINST ANY SUCH THIRD PARTIES. IF YOU ARE A CALIFORNIA RESIDENT, YOU WAIVE CALIFORNIA CIVIL CODE §1542, WHICH SAYS: "A GENERAL RELEASE DOES NOT EXTEND TO CLAIMS WHICH THE CREDITOR DOES NOT KNOW OR SUSPECT TO EXIST IN HIS FAVOR AT THE TIME OF EXECUTING THE RELEASE, WHICH IF KNOWN BY HIM MUST HAVE MATERIALLY AFFECTED HIS SETTLEMENT WITH THE DEBTOR." WE WILL NOT BE LIABLE TO YOU FOR ANY LOST PROFITS OR OTHER CONSEQUENTIAL, SPECIAL, INDIRECT, OR INCIDENTAL DAMAGES ARISING OUT OF OR IN CONNECTION WITH THIS STATEMENT OR FACEBOOK, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. OUR AGGREGATE LIABILITY ARISING OUT OF THIS STATEMENT OR FACEBOOK WILL NOT EXCEED THE GREATER OF ONE HUNDRED DOLLARS ($100) OR THE AMOUNT YOU HAVE PAID US IN THE PAST TWELVE MONTHS. APPLICABLE LAW MAY NOT ALLOW THE LIMITATION OR EXCLUSION OF LIABILITY OR INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THE ABOVE LIMITATION OR EXCLUSION MAY NOT APPLY TO YOU. IN SUCH CASES, FACEBOOK'S LIABILITY WILL BE LIMITED TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW.
+
+
+Special Provisions Applicable to Users Outside the United States 
+
+
+We strive to create a global community with consistent standards for everyone, but we also strive to respect local laws. The following provisions apply to users outside the United States:
 
 You consent to having your personal data transferred to and processed in the United States.
 
 If you are located in a country embargoed by the United States, or are on the U.S. Treasury Department's list of Specially Designated Nationals you will not engage in commercial activities on Facebook (such as advertising or payments) or operate a Platform application or website.
 
+Certain specific terms that apply only for German users are available here.
 
-Definitions
-  
+
+Definitions 
+
 
 By "Facebook" we mean the features and services we make available, including through (a) our website at www.facebook.com and any other Facebook branded or co-branded websites (including sub-domains, international versions, widgets, and mobile versions); (b) our Platform; and (c) other media, software (such as a toolbar), devices, or networks now existing or later developed.
 
@@ -329,9 +339,8 @@ By "active registered user" we mean a user who has logged into Facebook at least
 By "application" we mean any application or website (including Connect sites) that uses or accesses Platform, as well as anything else that receives data.
 
 
+Other 
 
-Other
-  
 
 This Statement makes up the entire agreement between the parties regarding Facebook, and supersedes any prior agreements.
 
@@ -363,7 +372,7 @@ About Platform
 
 : This page helps you better understand what happens when you add a third-party application or use Facebook Connect, including how they may access and use your data.
 
-Platform Guidelines
+Platform Policies
 
 : These guidelines outline the policies that apply to applications, including Connect sites.
 
@@ -381,13 +390,13 @@ How to Appeal Claims of Copyright Infringement
 
 To access the Statement of Rights and Responsibilities in several different languages, please use the following links:
 
-French translation (FranÃ§ais)
+French translation (Français)
 
 Italian translation (Italiano)
 
 German translation (Deutsch)
 
-Spanish translation (EspaÃ±ol)
+Spanish translation (Español)
 
 
 
@@ -395,4 +404,7 @@ Spanish translation (EspaÃ±ol)
 
 
 
- 
+
+
+
+
