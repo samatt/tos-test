@@ -1,11 +1,11 @@
 
 Terms of Use
 
-Date of Last Revision: October 23, 2006.
-
-PLEASE READ THESE TERMS OF USE CAREFULLY AS THEY CONTAIN IMPORTANT INFORMATION REGARDING YOUR LEGAL RIGHTS, REMEDIES AND OBLIGATIONS AND SET FORTH VARIOUS LIMITATIONS AND EXCLUSIONS THERETO, INCLUDING WITHOUT LIMITATION A DISPUTE RESOLUTION CLAUSE THAT GOVERNS HOW DISPUTES WILL BE RESOLVED.
+Date of Last Revision: December 13, 2006.
 
 Welcome to Facebook, a social utility that connects you with the people around you. The Facebook service and network (collectively, "Facebook" or "the Service") are operated by Facebook, Inc. and its corporate affiliates (collectively, "us", "we" or "the Company"). By accessing or using our web site at www.facebook.com or the mobile version thereof (together the "Site") or by posting a Share Button on your site, you (the "User") signify that you have read, understand and agree to be bound by these Terms of Use ("Terms of Use" or "Agreement"), whether or not you are a registered member of Facebook.  We reserve the right, at our sole discretion, to change, modify, add, or delete portions of these Terms of Use at any time without further notice. If we do this, we will post the changes to these Terms of Use on this page and will indicate at the top of this page the date these terms were last revised. Your continued use of the Service or the Site after any such changes constitutes your acceptance of the new Terms of Use. If you do not agree to abide by these or any future Terms of Use, do not use or access (or continue to use or access) the Service or the Site. It is your responsibility to regularly check the Site to determine if there have been changes to these Terms of Use and to review such changes.
+
+PLEASE READ THESE TERMS OF USE CAREFULLY AS THEY CONTAIN IMPORTANT INFORMATION REGARDING YOUR LEGAL RIGHTS, REMEDIES AND OBLIGATIONS. THESE INCLUDE VARIOUS LIMITATIONS AND EXCLUSIONS, AND A DISPUTE RESOLUTION CLAUSE THAT GOVERNS HOW DISPUTES WILL BE RESOLVED.
 
 Eligibility
 
@@ -192,8 +192,6 @@ Please visit our
 Help
 
  page for more information.
-
-
 
 
 
